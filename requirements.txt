@@ -1,4 +1,4 @@
 streamlit
-flet
+flet <0.25
 pandas
 openpyxl
